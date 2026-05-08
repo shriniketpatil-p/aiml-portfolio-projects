@@ -1,4 +1,4 @@
-# AIML Projects
+# DS Projects
 
 ### 1. Red Wine Quality Prediction (Vino Veritas)
 A machine learning project to predict red wine quality from physicochemical properties.
