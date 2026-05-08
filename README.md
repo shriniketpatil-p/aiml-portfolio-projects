@@ -1,47 +1,41 @@
-# AIML Projects
+# AIML Portfolio Projects
 
-## Red Wine Quality Prediction (Vino Veritas)
+## Author
+**Shriniket Patil**
 
-**Project Overview**  
-Developed machine learning models to predict red wine quality scores based on 11 physicochemical properties. The project evaluated both classification (binary and multi-class) and regression approaches.
+**Noblex Infinity Labs**  
+AIML Data Science Accelerator  
+Supervisor: Dr. Noble Arya
 
-**Key Results**  
-- Multi-class classification (Low/Medium/High): LightGBM (Tuned) – 88.8% accuracy  
-- Binary classification (Good vs Not Good): XGBoost – 90.4% accuracy  
-- Most important features: Alcohol content, Sulphates, Volatile Acidity
+---
 
-**Project Files**  
-- Notebooks: `wine-quality-prediction/1. wine_quality_ml_models.ipynb`, `2. wine_quality_conclusions.ipynb`, `summary_notebook.ipynb`  
-- Dataset: `winequality_red_cleansed.csv`  
-- Final Report: `Wine_Quality_Project_Report.docx`
+## Projects
 
-**Business Impact**  
-Provides data-driven recommendations to winemakers for optimizing chemical composition to improve wine quality.
+### 1. Red Wine Quality Prediction (Vino Veritas)
+A machine learning project to predict red wine quality from physicochemical properties.
 
-## Telco Customer Churn Prediction
+**Key Results:**
+- Best Multi-Class Model: LightGBM (Tuned) - 88.8% accuracy
+- Best Binary Model: XGBoost - 90.4% accuracy
+- Top Features: Alcohol, Sulphates, Volatile Acidity
 
-**Project Overview**  
-Built and compared multiple classification models to predict customer churn for a telecommunications company using customer demographics, account information, and service usage data.
+**Files:** wine-quality-prediction/
 
-**Key Results**  
-- Best performing model: Random Forest (F1-Score: 0.6374)  
-- ROC-AUC: ~0.84  
-- Primary churn drivers: Month-to-month contracts, short tenure, lack of tech support, electronic check payment method
+### 2. Telco Customer Churn Prediction
+Predictive model to identify customers at risk of churning in a telecommunications company.
 
-**Project Files**  
-- Notebook: `telco-churn-prediction/Telco_Churn_Prediction_Notebook.ipynb`  
-- Final Report: `Telco_Churn_Project_Report.docx`
+**Key Results:**
+- Best Model: Random Forest - F1 Score 0.6374
+- Key Churn Drivers: Month-to-month contracts, short tenure, lack of tech support
 
-**Business Impact**  
-Enables proactive customer retention strategies and targeted interventions to reduce churn and protect revenue.
+**Files:** telco-churn-prediction/
+
+---
 
 ## Repository Structure
-- `wine-quality-prediction/` – Red wine quality prediction project files
-- `telco-churn-prediction/` – Telco customer churn prediction project files
-- `docs/` – Additional documentation
+- `wine-quality-prediction/` - Notebooks, reports, and data for wine quality project
+- `telco-churn-prediction/` - Notebooks, reports, and data for telco churn project
 
-## Technologies Used
-- Python, Pandas, NumPy
-- Scikit-learn, XGBoost, LightGBM
-- Jupyter Notebooks
-- Matplotlib and Seaborn for data visualization
+---
+
+Projects completed as part of the AIML Data Science Accelerator at Noblex Infinity Labs.
