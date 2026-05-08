@@ -1,15 +1,4 @@
-# AIML Portfolio Projects
-
-## Author
-**Shriniket Patil**
-
-**Noblex Infinity Labs**  
-AIML Data Science Accelerator  
-Supervisor: Dr. Noble Arya
-
----
-
-## Projects
+# AIML Projects
 
 ### 1. Red Wine Quality Prediction (Vino Veritas)
 A machine learning project to predict red wine quality from physicochemical properties.
