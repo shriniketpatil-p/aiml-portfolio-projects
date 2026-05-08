@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files)
+*.csv
+!winequality_red_cleansed.csv
+
+# Models
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+__pycache__/
+
+# Reports (binary)
+*.docx
+*.doc
+*.pdf
+
+# Environment
+.env
+venv/
