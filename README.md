@@ -1,4 +1,4 @@
-# AIML Portfolio Projects
+# AIML Projects
 
 ## Red Wine Quality Prediction (Vino Veritas)
 
