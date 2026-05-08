@@ -1,7 +1,5 @@
 # AIML Portfolio Projects
 
-This repository contains end-to-end machine learning projects developed as part of the AIML Data Science Accelerator program at Noblex Infinity Labs.
-
 ## Red Wine Quality Prediction (Vino Veritas)
 
 **Project Overview**  
